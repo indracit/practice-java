@@ -30,6 +30,9 @@ public class Reverse_words {
         return reverseArr(wordarr);
     }
 
+    // mno.pqr
+    // much.very.program.this.like.i
+
     public static void main(String[] args) throws Exception {
         String test1 = "pqr.mno";
         String test2 = "i.like.this.program.very.much";

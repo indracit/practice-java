@@ -23,6 +23,8 @@ public class Anagram {
 
     }
 
+    // false
+    // true
     public static void main(String[] args) {
 
         String a = "allergy";
